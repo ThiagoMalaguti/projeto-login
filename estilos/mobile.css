@@ -34,7 +34,7 @@ section {
 
 #imagem {
     display: block;
-    background-color: #005823;
+    background-color: #005823; /*#005823*/ 
     background-image: url(../imagens/imagem.jpg);
     background-repeat: no-repeat;
     background-position: center center;
