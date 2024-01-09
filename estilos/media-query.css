@@ -21,6 +21,14 @@
         float: right;
         width: 60%;
     }
+
+    #resto h1 {
+        font-size: 1.5em;
+    }
+
+    #resto p{
+        font-size: 1em;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -45,5 +53,11 @@
         width: 50%;
     }
 
-    
+    #resto h1 {
+        font-size: 1.9em;
+    }
+
+    #resto p{
+        font-size: 1.2em;
+    }
 }
