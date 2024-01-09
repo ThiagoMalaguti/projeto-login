@@ -7,7 +7,7 @@
     
     section {
         width: 80vw;
-        height: 40vh;
+        height: 300px;
         
     }
 
@@ -28,7 +28,10 @@
 
     #resto p{
         font-size: 1em;
+        margin-bottom: 5px;
     }
+
+
 
 }
 
@@ -39,7 +42,7 @@
     
     section {
         width: 950px;
-        height: 350px;
+        height: 320px;
         
     }
 
@@ -60,6 +63,8 @@
 
     #resto p{
         font-size: 1.2em;
+        margin-bottom: 10px;
+
     }
 
 }
