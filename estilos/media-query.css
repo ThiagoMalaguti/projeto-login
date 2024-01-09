@@ -29,6 +29,7 @@
     #resto p{
         font-size: 1em;
     }
+
 }
 
 @media screen and (min-width: 992px) {
@@ -60,4 +61,5 @@
     #resto p{
         font-size: 1.2em;
     }
+
 }
